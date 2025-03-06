@@ -2,4 +2,4 @@
 - 👀 I’m interested in many various things.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on plenty other stuff
-- 📫 How to reach me - via email
+- 📫 How to reach me - via email - breconm@icloud.com
