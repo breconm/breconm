@@ -21,7 +21,7 @@ As a **community-taught learner**, I’m all about curiosity, collaboration, and
 - 💻 Rebuilding freeCodeCamp projects with responsive & accessible design  
 - 🧰 Working with Git, PowerShell, Wireshark, HTML/CSS, and Linux CLI  
 - 🌱 Exploring TailwindCSS & JavaScript deeper every day  
-- 🎯 Learning through TryHackMe, Hack The Box, CS50, and Kevin Powell  
+- 🎯 Learning through TryHackMe, Hack The Box, CS50 and so on.
 
 ---
 
