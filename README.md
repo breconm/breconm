@@ -10,7 +10,7 @@
 
 I'm a passionate **Cybersecurity student at Oakland Community College**, exploring how technology can be used to **protect systems, data, and people**. I'm building my portfolio one project at a time — combining real-world security tools with hands-on frontend development.
 
-As a **community-taught learner**, I’m all about curiosity, collaboration, and continuous improvement — whether I’m auditing systems, rebuilding web projects, or diving into a hackathon.
+As a **community-taught learner**, I’m all about curiosity, collaboration, and continuous improvement — whether I’m auditing systems, rebuilding web projects, or diving into hackathons.
 
 ---
 
@@ -21,7 +21,7 @@ As a **community-taught learner**, I’m all about curiosity, collaboration, and
 - 💻 Rebuilding freeCodeCamp projects with responsive & accessible design  
 - 🧰 Working with Git, PowerShell, Wireshark, HTML/CSS, and Linux CLI  
 - 🌱 Exploring TailwindCSS & JavaScript deeper every day  
-- 🎯 Learning through TryHackMe, Hack The Box, CS50 and so on.
+- 🎯 Learning through TryHackMe, Hack The Box, CS50 and more.
 
 ---
 
