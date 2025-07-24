@@ -42,7 +42,7 @@ As a **community-taught learner**, I’m all about curiosity, collaboration, and
 - Metasploit • Linux CLI • TryHackMe & Hack The Box 
 
 #### Web Development
-- HTML • CSS • JavaScript • Tailwind (learning) • Responsive Design • Accessibility-first
+- HTML • CSS • Tailwind (learning) • Responsive Design • Accessibility-first
 
 #### ⚙General Tools & Platforms
 - Git & GitHub • Python • VS Code • Figma • freeCodeCamp
