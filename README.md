@@ -44,7 +44,7 @@ As a **community-taught learner**, I’m all about curiosity, collaboration, and
 #### Web Development
 - HTML • CSS • Tailwind (learning) • Responsive Design • Accessibility-first
 
-#### ⚙General Tools & Platforms
+#### General Tools & Platforms
 - Git & GitHub • Python • VS Code • Figma • freeCodeCamp
 
 <p align="center">
