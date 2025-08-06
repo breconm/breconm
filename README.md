@@ -94,11 +94,3 @@ Open to:
 ---
 
 ### WakaTime Activity (Coming Soon)
-
-*Tracking time with WakaTime to measure coding across tools and projects.*
-
-```text
-Total Time: 3 hrs 42 mins  
-PowerShell   ████████████████████   85.2%  
-HTML/CSS     ██░░░░░░░░░░░░░░░░░   10.5%  
-JavaScript   ░░░░░░░░░░░░░░░░░░░   4.3%
